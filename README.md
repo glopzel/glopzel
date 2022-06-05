@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/glopzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="glopzel" height="30" width="40" /></a>
 </p>
 
-
+<h3 align="left">Some Github stats:</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glopzel&" alt="glopzel" /></p>
