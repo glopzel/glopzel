@@ -16,13 +16,12 @@ Here are some ideas to get you started:
                    
 <h1 align="center">Hi there 👋, I'm Angela</h1>
 
-<h3 align="center">Software Engineer at 100Devs</h3>
+- 😄 Pronouns: she/her
 
-- 🖥️  Some of my projects are available at [my portfolio](alz.netlify.app)
+- 🌱 I’m currently learning backend dark magic + three.js and p5.js
 
 - 📫 You can contact me at [alopezzel@gmail.com](mailto:alopezzel@gmail.com)
 
-- 🧠  I'm learning backend dark magic + three.js, p5.js
 
 ### Skills<p align="left">
   
