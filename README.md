@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Software Engineer at 100Devs</h3>
 
-- 🖥️  Some of my projects are available at [my freelance portfolio](alz.netlify.app)
+- 🖥️  Some of my projects are available at [my portfolio](alz.netlify.app)
 
 - 📫 You can contact me at [alopezzel@gmail.com](mailto:alopezzel@gmail.com)
 
