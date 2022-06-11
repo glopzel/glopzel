@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning backend dark magik
 
-- 📫 You can contact me at [alopezzel@gmail.com](mailto:alopezzel@gmail.com)
-
-
 ### Skills<p align="left">
 <p align="center"><img align ="center" src="https://skills.thijs.gg/icons?i=html,css,bootstrap,js,mongodb,nodejs,express,heroku,git"/></p>
   
