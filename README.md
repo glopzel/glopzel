@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on making random APIs 
 
-- 🌱 I’m currently learning backend , and would like to learn more in the future about three.js and p5xjs
+- 🌱 I’m currently learning backend , and would like to learn more about three.js and p5xjs
 
 - ⚡ Fun fact: my first pet was a goose that everyone thought was a male until the goose plot-twisted us and popped an egg.
 
