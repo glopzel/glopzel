@@ -35,11 +35,6 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=js,react,astro,nodejs,express,mongodb,git,tailwind" />
 </p>
   
-### Github stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glopzel&show_icons=true&theme=dark"/>
-</p>
-
 
 ### My Holopin badges
 
