@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on contributing to open source + improving personal projects
 
-- 📫 You can <a href="mailto:alopezzel@gmail.com">contact me here</a>
+- 📫 You can <a href="mailto:alopezzel@gmail.com" target="_blank">contact me here</a>
 
   
 ### Social Media (and codepen)
