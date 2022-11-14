@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on contributing to open source + improving personal projects
 
+- 🌱 I’m currently learning TypeScript
+
 - 📫 You can <a href="mailto:alopezzel@gmail.com" target="_blank">contact me here</a>
 
   
