@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: she/her
 
-- 🔭 I’m currently working on contributing to open source + improving personal projects
-
-- 🌱 I’m currently learning TypeScript
+- 🔭 I’m currently working on contributing to open source
 
 - 📫 You can <a href="mailto:alopezzel@gmail.com" target="_blank">contact me here</a>
 
@@ -34,10 +32,10 @@ Here are some ideas to get you started:
 ### Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,astro,nodejs,express,mongodb,git,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,astro,nodejs,express,mongodb,git,tailwind" />
 </p>
   
 
-### My Holopin badges
+<!-- ### My Holopin badges
 
-[![@glopzel's Holopin board](https://holopin.me/glopzel)](https://holopin.io/@glopzel)
+[![@glopzel's Holopin board](https://holopin.me/glopzel)](https://holopin.io/@glopzel) -->
