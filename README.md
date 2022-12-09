@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on contributing to open source
 
-- 📫 You can <a href="mailto:alopezzel@gmail.com" target="_blank">contact me here</a>
-
   
 ### Social Media (and codepen)
 <p align="center">
@@ -32,7 +30,7 @@ Here are some ideas to get you started:
 ### Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,astro,nodejs,express,mongodb,git,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,git,tailwind" />
 </p>
   
 
