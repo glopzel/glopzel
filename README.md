@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on contributing to open source
 
+- :rocket: Astro and Svelte enjoyer
+
   
 ### Social Media (and codepen)
 <p align="center">
 <a href="https://codepen.io/glopzel" target="blank"><img align="center" src="https://skillicons.dev/icons?i=codepen" alt="codepen logo"/></a> <a href="https://twitter.com/glopzel" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter logo"/></a>  <a href="https://linkedin.com/in/angela lopez zelaya" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin logo"/></a>  <a href="https://instagram.com/glopzel" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram logo"/></a>
 </p>
 
-### Skills
 
+
+<!-- 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,git,tailwind" />
 </p>
-  
-
-<!-- ### My Holopin badges
-
+ 
 [![@glopzel's Holopin board](https://holopin.me/glopzel)](https://holopin.io/@glopzel) -->
