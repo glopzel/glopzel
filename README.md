@@ -17,11 +17,9 @@ Here are some ideas to get you started:
         
 <h1 align="center">Hi there 👋, I'm Angela</h1>
 
-- 😄 Pronouns: she/her
+- ⚡ Full Stack Dev JS
 
-- 🔭 I’m currently working on contributing to open source
-
-- :rocket: Astro and Svelte enjoyer
+- 🌱 I’m currently learning C#
 
 <!-- 
 <p align="center">
