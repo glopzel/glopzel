@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->                
         
-<h1 align="center">Hi there 👋, I'm Angela</h1>
+<h1 align="center">Holas</h1>
 
-- ⚡ Full Stack Dev JS
+- I've done some web dev
 
-- 🌱 I’m currently learning C#
+- I like Astro and mixing it up with Svelte
+
+- re-learning python now
+
+
 
 <!-- 
 <p align="center">
