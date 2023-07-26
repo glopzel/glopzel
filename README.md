@@ -14,20 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->                
-        
-<h1 align="center">Holas</h1>
 
-- I've done some web dev
+- 🚀 I like using Astro + Svelte
+- 🌱 Currently learning Go to gopherize my life
 
-- I like Astro and mixing it up with Svelte
-
-- re-learning python now
-
-
-
-<!-- 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,git,tailwind" />
+        <img src="https://skillicons.dev/icons?i=astro,svelte,js,ts,go">
 </p>
- 
-[![@glopzel's Holopin board](https://holopin.me/glopzel)](https://holopin.io/@glopzel) -->
+
