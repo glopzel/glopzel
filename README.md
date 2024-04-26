@@ -13,12 +13,21 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->                
-
 - 🚀 I like using Astro + Svelte
 - 🌱 Currently learning Go to gopherize my life
+-->                
 
-<p align="center">
-        <img src="https://skillicons.dev/icons?i=astro,svelte,js,ts,go">
+# Hola
+
+## Languages and tools
+I don't know how to arrange them
+<p>
+        <img src="https://skillicons.dev/icons?i=js,ts,py">
+</p>
+<p>
+        <img src="https://skillicons.dev/icons?i=react,astro,svelte,vue,p5js">
+</p>
+<p>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,postgres,mysql,git">
 </p>
 
